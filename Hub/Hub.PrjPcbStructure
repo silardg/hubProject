@@ -1,0 +1,8 @@
+Record=TopLevelDocument|FileName=01 COVER PAGE.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=01 COVER PAGE.SchDoc|FileName=02 BLOCK DIAGRAM.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=01 COVER PAGE.SchDoc|FileName=03 POWER.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=01 COVER PAGE.SchDoc|FileName=04 USB7002-PartA.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=01 COVER PAGE.SchDoc|FileName=05 USB7002-PartB.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=01 COVER PAGE.SchDoc|FileName=06 LAN7800.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=01 COVER PAGE.SchDoc|FileName=07 RS485.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=01 COVER PAGE.SchDoc|FileName=08 MISC.SchDoc|SheetNumber=8
